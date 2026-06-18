@@ -63,9 +63,9 @@
 #### 🔹 Mini Projects — HTML, CSS & JavaScript
 | Project | Description | Link |
 |---------|-------------|------|
-| 🎮 Tic-Tac-Toe | Two-player game with win detection logic | [View]([https://github.com/Nikhil2047](https://github.com/Nikhil2047/Mini-Projects/tree/main/TicTacToe)) |
-| 🧮 Calculator | Functional calculator with keyboard support | [View]([https://github.com/Nikhil2047](https://github.com/Nikhil2047/Mini-Projects/tree/main/Calculator)) |
-| 🎵 Simon Game | Memory-based color sequence game | [View]([https://github.com/Nikhil2047](https://github.com/Nikhil2047/Mini-Projects/tree/main/simon%20game)) |
+| 🎮 Tic-Tac-Toe | Two-player game with win detection logic | [View](https://github.com/Nikhil2047](https://github.com/Nikhil2047/Mini-Projects/tree/main/TicTacToe) |
+| 🧮 Calculator | Functional calculator with keyboard support | [View](https://github.com/Nikhil2047](https://github.com/Nikhil2047/Mini-Projects/tree/main/Calculator) |
+| 🎵 Simon Game | Memory-based color sequence game | [View](https://github.com/Nikhil2047](https://github.com/Nikhil2047/Mini-Projects/tree/main/simon%20game) |
 
 ---
 
