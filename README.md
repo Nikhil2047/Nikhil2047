@@ -45,7 +45,7 @@
 
 ### 📂 Featured Projects
 
-#### 🔹 [Task Management System](https://github.com/Nikhil2047/Project/tree/master/Task-Management-system)
+#### 🔹 [Task Management System](https://github.com/Nikhil2047/Task-management-frontend-2.0)
 > A full-stack task manager built with the **MERN Stack**
 - ✅ Create, Read, Update & Delete tasks (CRUD)
 - ✅ User authentication & protected routes
@@ -53,7 +53,7 @@
 - ✅ REST API with Node.js & Express backend
 - ✅ MongoDB for data storage
 
-#### 🔹 [Tour & Travel Management System]
+#### 🔹 [Tour & Travel Management System](https://github.com/Nikhil2047/Travel_App_Frontend)
 > A complete travel booking platform built with the **MERN Stack**
 - ✅ Dynamic travel listings & destinations
 - ✅ User registration & login with authentication
